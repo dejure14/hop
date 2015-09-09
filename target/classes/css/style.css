@@ -1,0 +1,10 @@
+#headline{
+    -fx-font-size: 32px;
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow(gaussian, maroon, 0, 0, 0, 1);
+}
+
+#simpleLabel{
+    -fx-font-size: 16px;
+    -fx-effect: dropshadow(gaussian, maroon, 0, 0, 0, 0.5);
+}
